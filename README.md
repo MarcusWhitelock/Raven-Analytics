@@ -5,14 +5,6 @@
 
 ![](https://github.com/apfreeman/FinTech-Project-3/blob/main/Images/How-Data-Analytics.jpg?raw=true)
 
-# Team Members
-
-- Jordan Dass
-- Adam Freeman 
-- Mitchell Langdon 
-- Tracey Martin
-- Marcus Whitelock 
-
 # Project Description/Outline
 
 As the final project of this Fintech Bootcamp Course our team has selected the sub category of analytics. For this project our team has created an Web Data collection and Analytics solution designed to enable the autonomous gathering of information posted or appearing on any targeted website. 
